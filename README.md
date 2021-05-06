@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- [Blog](https://kyungkoo.github.io)
 <!--
 **kyungkoo/kyungkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
